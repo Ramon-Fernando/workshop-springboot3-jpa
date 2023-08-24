@@ -3,7 +3,7 @@
 </h1>
 
 ## Introdução
-Projeto de estudo Spring Boot desenvolvido no curso do Prof. Dr. Nélio Alves
+Projeto de estudo Spring Boot desenvolvido no curso "Java COMPLETO 2023 Programação Orientada a Objetos +Projetos" do Prof. Dr. Nélio Alves
 
 ## Objetivos de aprendizado
 * ``Criar projeto Spring Boot Java``

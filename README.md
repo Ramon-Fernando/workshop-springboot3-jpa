@@ -14,6 +14,13 @@ Projeto de estudo Spring Boot desenvolvido no curso "Java COMPLETO 2023 Programa
 * ``CRUD - Create, Retrieve, Update, Delete``
 * ``Tratamento de exceções``
 
+## Tecnologias utilizadas
+* ``Java LTS 17``
+* ``Spring Boot 3.0``
+* ``Banco de Dados H2 (para teste)``
+* ``Postman``
+* ``Spring Tools 4 for Eclipse``
+
 ## Modelo de domínio
 ![dominio](https://i.imgur.com/6FjJdoU.png)
 
